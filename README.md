@@ -1,5 +1,5 @@
 # ERS-STD
-This repository contains the instances and results used in our paper "Emergency response scheduling with endogenous, sequence-dependent damage: formulation and exact algorithm".
+This repository contains the instances and results used in our paper about ERS-STD.
 # Instances
 Each instance consists of four components:
 - Distance matrix (unit: km), covering depot 0 and all incident sites.
